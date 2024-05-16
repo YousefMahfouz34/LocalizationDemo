@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Projects\\Loclization\\LoclizationWebApi\\wwwroot\\Resourses\\ar-EG.json",
+      "PackagePath": "staticwebassets\\Resourses\\ar-EG.json"
+    },
+    {
+      "Id": "D:\\Projects\\Loclization\\LoclizationWebApi\\wwwroot\\Resourses\\en-US.json",
+      "PackagePath": "staticwebassets\\Resourses\\en-US.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.LoclizationWebApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.LoclizationWebApi.props",
+      "PackagePath": "build\\LoclizationWebApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.LoclizationWebApi.props",
+      "PackagePath": "buildMultiTargeting\\LoclizationWebApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.LoclizationWebApi.props",
+      "PackagePath": "buildTransitive\\LoclizationWebApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

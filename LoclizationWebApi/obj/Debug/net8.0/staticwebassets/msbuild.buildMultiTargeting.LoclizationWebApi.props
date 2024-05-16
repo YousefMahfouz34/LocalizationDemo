@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\LoclizationWebApi.props" />
+</Project>

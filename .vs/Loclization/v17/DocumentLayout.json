@@ -1,0 +1,187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\Loclization\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6BA87DCA-A7B7-421D-97BE-DD5C1BA44133}|LoclizationWebApi\\LoclizationWebApi.csproj|d:\\projects\\loclization\\loclizationwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6BA87DCA-A7B7-421D-97BE-DD5C1BA44133}|LoclizationWebApi\\LoclizationWebApi.csproj|solutionrelative:loclizationwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BA87DCA-A7B7-421D-97BE-DD5C1BA44133}|LoclizationWebApi\\LoclizationWebApi.csproj|D:\\Projects\\Loclization\\loclizationwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BA87DCA-A7B7-421D-97BE-DD5C1BA44133}|LoclizationWebApi\\LoclizationWebApi.csproj|solutionrelative:loclizationwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BA87DCA-A7B7-421D-97BE-DD5C1BA44133}|LoclizationWebApi\\LoclizationWebApi.csproj|d:\\projects\\loclization\\loclizationwebapi\\sevices\\localizationsettengs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BA87DCA-A7B7-421D-97BE-DD5C1BA44133}|LoclizationWebApi\\LoclizationWebApi.csproj|solutionrelative:loclizationwebapi\\sevices\\localizationsettengs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BA87DCA-A7B7-421D-97BE-DD5C1BA44133}|LoclizationWebApi\\LoclizationWebApi.csproj|D:\\Projects\\Loclization\\loclizationwebapi\\sevices\\jsonstringlocilizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BA87DCA-A7B7-421D-97BE-DD5C1BA44133}|LoclizationWebApi\\LoclizationWebApi.csproj|solutionrelative:loclizationwebapi\\sevices\\jsonstringlocilizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BA87DCA-A7B7-421D-97BE-DD5C1BA44133}|LoclizationWebApi\\LoclizationWebApi.csproj|D:\\Projects\\Loclization\\loclizationwebapi\\sevices\\jsonstringlocilizerfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BA87DCA-A7B7-421D-97BE-DD5C1BA44133}|LoclizationWebApi\\LoclizationWebApi.csproj|solutionrelative:loclizationwebapi\\sevices\\jsonstringlocilizerfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BA87DCA-A7B7-421D-97BE-DD5C1BA44133}|LoclizationWebApi\\LoclizationWebApi.csproj|d:\\projects\\loclization\\loclizationwebapi\\controllers\\indexcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BA87DCA-A7B7-421D-97BE-DD5C1BA44133}|LoclizationWebApi\\LoclizationWebApi.csproj|solutionrelative:loclizationwebapi\\controllers\\indexcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BA87DCA-A7B7-421D-97BE-DD5C1BA44133}|LoclizationWebApi\\LoclizationWebApi.csproj|D:\\Projects\\Loclization\\loclizationwebapi\\wwwroot\\resourses\\en-us.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6BA87DCA-A7B7-421D-97BE-DD5C1BA44133}|LoclizationWebApi\\LoclizationWebApi.csproj|solutionrelative:loclizationwebapi\\wwwroot\\resourses\\en-us.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BA87DCA-A7B7-421D-97BE-DD5C1BA44133}|LoclizationWebApi\\LoclizationWebApi.csproj|D:\\Projects\\Loclization\\loclizationwebapi\\wwwroot\\resourses\\ar-eg.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6BA87DCA-A7B7-421D-97BE-DD5C1BA44133}|LoclizationWebApi\\LoclizationWebApi.csproj|solutionrelative:loclizationwebapi\\wwwroot\\resourses\\ar-eg.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BA87DCA-A7B7-421D-97BE-DD5C1BA44133}|LoclizationWebApi\\LoclizationWebApi.csproj|D:\\Projects\\Loclization\\loclizationwebapi\\dto\\testdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BA87DCA-A7B7-421D-97BE-DD5C1BA44133}|LoclizationWebApi\\LoclizationWebApi.csproj|solutionrelative:loclizationwebapi\\dto\\testdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BA87DCA-A7B7-421D-97BE-DD5C1BA44133}|LoclizationWebApi\\LoclizationWebApi.csproj|D:\\Projects\\Loclization\\loclizationwebapi\\loclizationwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6BA87DCA-A7B7-421D-97BE-DD5C1BA44133}|LoclizationWebApi\\LoclizationWebApi.csproj|solutionrelative:loclizationwebapi\\loclizationwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Localizationsettengs.cs",
+              "DocumentMoniker": "D:\\Projects\\Loclization\\LoclizationWebApi\\Sevices\\Localizationsettengs.cs",
+              "RelativeDocumentMoniker": "LoclizationWebApi\\Sevices\\Localizationsettengs.cs",
+              "ToolTip": "D:\\Projects\\Loclization\\LoclizationWebApi\\Sevices\\Localizationsettengs.cs",
+              "RelativeToolTip": "LoclizationWebApi\\Sevices\\Localizationsettengs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T11:38:45.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Projects\\Loclization\\LoclizationWebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "LoclizationWebApi\\appsettings.json",
+              "ToolTip": "D:\\Projects\\Loclization\\LoclizationWebApi\\appsettings.json",
+              "RelativeToolTip": "LoclizationWebApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-16T11:29:08.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TestDTO.cs",
+              "DocumentMoniker": "D:\\Projects\\Loclization\\LoclizationWebApi\\DTO\\TestDTO.cs",
+              "RelativeDocumentMoniker": "LoclizationWebApi\\DTO\\TestDTO.cs",
+              "ToolTip": "D:\\Projects\\Loclization\\LoclizationWebApi\\DTO\\TestDTO.cs",
+              "RelativeToolTip": "LoclizationWebApi\\DTO\\TestDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T09:40:36.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoclizationWebApi",
+              "DocumentMoniker": "D:\\Projects\\Loclization\\LoclizationWebApi\\LoclizationWebApi.csproj",
+              "RelativeDocumentMoniker": "LoclizationWebApi\\LoclizationWebApi.csproj",
+              "ToolTip": "D:\\Projects\\Loclization\\LoclizationWebApi\\LoclizationWebApi.csproj",
+              "RelativeToolTip": "LoclizationWebApi\\LoclizationWebApi.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-16T09:40:06.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\Loclization\\LoclizationWebApi\\Program.cs",
+              "RelativeDocumentMoniker": "LoclizationWebApi\\Program.cs",
+              "ToolTip": "D:\\Projects\\Loclization\\LoclizationWebApi\\Program.cs",
+              "RelativeToolTip": "LoclizationWebApi\\Program.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAADwvzwAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T08:40:35.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JsonStringLocilizer.cs",
+              "DocumentMoniker": "D:\\Projects\\Loclization\\LoclizationWebApi\\Sevices\\JsonStringLocilizer.cs",
+              "RelativeDocumentMoniker": "LoclizationWebApi\\Sevices\\JsonStringLocilizer.cs",
+              "ToolTip": "D:\\Projects\\Loclization\\LoclizationWebApi\\Sevices\\JsonStringLocilizer.cs",
+              "RelativeToolTip": "LoclizationWebApi\\Sevices\\JsonStringLocilizer.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAIwC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T07:44:51.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "indexController.cs",
+              "DocumentMoniker": "D:\\Projects\\Loclization\\LoclizationWebApi\\Controllers\\indexController.cs",
+              "RelativeDocumentMoniker": "LoclizationWebApi\\Controllers\\indexController.cs",
+              "ToolTip": "D:\\Projects\\Loclization\\LoclizationWebApi\\Controllers\\indexController.cs",
+              "RelativeToolTip": "LoclizationWebApi\\Controllers\\indexController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T09:07:46.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JsonStringLocilizerFactory.cs",
+              "DocumentMoniker": "D:\\Projects\\Loclization\\LoclizationWebApi\\Sevices\\JsonStringLocilizerFactory.cs",
+              "RelativeDocumentMoniker": "LoclizationWebApi\\Sevices\\JsonStringLocilizerFactory.cs",
+              "ToolTip": "D:\\Projects\\Loclization\\LoclizationWebApi\\Sevices\\JsonStringLocilizerFactory.cs",
+              "RelativeToolTip": "LoclizationWebApi\\Sevices\\JsonStringLocilizerFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T08:39:27.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ar-EG.json",
+              "DocumentMoniker": "D:\\Projects\\Loclization\\LoclizationWebApi\\wwwroot\\Resourses\\ar-EG.json",
+              "RelativeDocumentMoniker": "LoclizationWebApi\\wwwroot\\Resourses\\ar-EG.json",
+              "ToolTip": "D:\\Projects\\Loclization\\LoclizationWebApi\\wwwroot\\Resourses\\ar-EG.json",
+              "RelativeToolTip": "LoclizationWebApi\\wwwroot\\Resourses\\ar-EG.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-16T08:23:51.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "en-US.json",
+              "DocumentMoniker": "D:\\Projects\\Loclization\\LoclizationWebApi\\wwwroot\\Resourses\\en-US.json",
+              "RelativeDocumentMoniker": "LoclizationWebApi\\wwwroot\\Resourses\\en-US.json",
+              "ToolTip": "D:\\Projects\\Loclization\\LoclizationWebApi\\wwwroot\\Resourses\\en-US.json",
+              "RelativeToolTip": "LoclizationWebApi\\wwwroot\\Resourses\\en-US.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-16T08:22:18.577Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

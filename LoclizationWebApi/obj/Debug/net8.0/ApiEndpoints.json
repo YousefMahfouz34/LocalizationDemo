@@ -1,0 +1,34 @@
+[
+  {
+    "ContainingType": "LoclizationWebApi.Controllers.indexController",
+    "Method": "CreateDto",
+    "RelativePath": "api/index",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dTO",
+        "Type": "LoclizationWebApi.DTO.TestDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LoclizationWebApi.Controllers.indexController",
+    "Method": "test",
+    "RelativePath": "api/index/{name}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

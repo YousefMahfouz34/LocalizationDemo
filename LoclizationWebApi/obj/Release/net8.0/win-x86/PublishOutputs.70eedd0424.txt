@@ -1,0 +1,12 @@
+D:\Projects\Loclization\LoclizationWebApi\obj\Release\net8.0\win-x86\PubTmp\Out\LoclizationWebApi.exe
+D:\Projects\Loclization\LoclizationWebApi\obj\Release\net8.0\win-x86\PubTmp\Out\appsettings.Development.json
+D:\Projects\Loclization\LoclizationWebApi\obj\Release\net8.0\win-x86\PubTmp\Out\appsettings.json
+D:\Projects\Loclization\LoclizationWebApi\obj\Release\net8.0\win-x86\PubTmp\Out\LoclizationWebApi.dll
+D:\Projects\Loclization\LoclizationWebApi\obj\Release\net8.0\win-x86\PubTmp\Out\LoclizationWebApi.deps.json
+D:\Projects\Loclization\LoclizationWebApi\obj\Release\net8.0\win-x86\PubTmp\Out\LoclizationWebApi.runtimeconfig.json
+D:\Projects\Loclization\LoclizationWebApi\obj\Release\net8.0\win-x86\PubTmp\Out\LoclizationWebApi.pdb
+D:\Projects\Loclization\LoclizationWebApi\obj\Release\net8.0\win-x86\PubTmp\Out\Microsoft.OpenApi.dll
+D:\Projects\Loclization\LoclizationWebApi\obj\Release\net8.0\win-x86\PubTmp\Out\Newtonsoft.Json.dll
+D:\Projects\Loclization\LoclizationWebApi\obj\Release\net8.0\win-x86\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projects\Loclization\LoclizationWebApi\obj\Release\net8.0\win-x86\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projects\Loclization\LoclizationWebApi\obj\Release\net8.0\win-x86\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
